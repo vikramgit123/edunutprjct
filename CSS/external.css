@@ -1,0 +1,11 @@
+/* this is an external css */
+h2
+{
+    color: chocolate;
+    text-decoration: dotted;
+}
+h1
+{
+    text-align: center;
+    color: aqua;
+}

@@ -1,0 +1,46 @@
+git commands
+==================
+git init
+->used for initialize git local repository
+
+git status
+->used to check the ststus of the project
+
+git add
+->used to add existing projects into local repository
+
+git commit -m "first commit"
+->used to commit from untravked files into tracked files,
+  now these files are ready to send in remote repository.
+
+git remote add origin (GitHub URL):
+->used to add local repository into remote repository
+
+git push(GitHub URL)
+->used to push all the commited project data into GitHub remote repository..
+
+====================
+first time
+
+git init
+
+git add .
+
+git commit -m "first commit"
+
+git branch -M main
+
+git remote add origin (url)
+
+git push -u origin main
+
+====================
+2nd time
+
+git ststus
+
+git add .
+
+git commit -m "added new modified"
+
+git push
