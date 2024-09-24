@@ -1,0 +1,26 @@
+npm create vite@latest
+-->check directory
+npm install
+npm fund   
+npm install bootstrap@5.3.3
+npm run dev
+
+now inside src create folder "components"
+in that create ur components with .Jsx
+class replace ctrl+h
+
+go to main 
+<firstcomponent />
+add all the components and save
+(automatically import changes and updated)
+
+ctl + c to stop host
+install bootstrap on same directory
+>npm install bootstrap@5.3.3
+
+in every components make sure you imported bootstrap 
+use rfce
+import React from 'react'
+import 'bootstrap/dist/css/bootstrap.css';
+import 'bootstrap/dist/js/bootstrap.bundle.min.js';
+
