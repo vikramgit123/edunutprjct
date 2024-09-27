@@ -3,3 +3,18 @@ npm init
 npm install express
 
 https://expressjs.com/en/starter/installing.html
+
+HTTP STSTUS CODES
+200-sucess/ok
+301 permanent redirect
+302 temporary redirect
+
+401 unauthorized error
+403 forbidden
+404 not found
+405 method not allowed
+
+501 not implemented
+502 bad gateway
+503 service unavailable
+504 gateway timeout 
